@@ -1,4 +1,4 @@
-console.log("hi");
+console.log("data");
 // 데이터 종류(자료형)
 // Stling, Number, Boolean, Undefined, Null, Object, Array
 
